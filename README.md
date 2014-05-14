@@ -1,6 +1,13 @@
 jobs
 ====
 
+Who are we?
+
+We are the Canção Nova's development team.
+
+We build mobile apps, websites, software integration and more!
+
+-----
 
 Do you wanna be part of our development team?
 
